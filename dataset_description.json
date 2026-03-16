@@ -1,0 +1,19 @@
+{
+    "Name": "Allen Institute \u2013 TF x SF tuning in mouse visual cortex with calcium imaging",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "A two photon calcium imaging dataset from Allen Institute measuring responses to full-field drifting gratings (approx. 120x90 degrees of visual space) moving in 4 different directions, at 5 spatial frequencies (0.02, 0.04, 0.08, 0.16, 0.32 cpd), and 5 temporal frequencies (0.5, 1, 2, 4, 8 Hz). The ratio of TF/SF is speed (deg/sec) and the extent to which visual neurons exhibit speed tuning has been shown to vary across some cortical areas (Andermann et al. 2011).\nMouse Cre lines expressing GCaMPf were imaged to record responses of pyramidal neurons across cortical layers (Cux2: layer 2/3; Rorb: layer 4; Rbp4: layer 5; Ntsr1: layer 6) as well as somatostatin inhibitory interneurons (Sst). All Cre lines were imaged in VISp, and some (Cux2 and Sst) were also imaged in VISl, VISal, VISpm, VISam, and VISrl. All experimental sessions took place on the same data collection pipeline as the Allen Brain Observatory (see de Vries, Lecoq, Buice et al. 2020) and have the same visual stimulus monitor calibration and positioning, two photon imaging systems and image processing pipeline, and running wheel to track locomotion. Data are subject to Allen Institute Terms of Use policy, available at: http://www.alleninstitute.org/legal/terms-use/",
+    "DatasetType": "raw",
+    "Authors": [
+        "Millman, Daniel"
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
