@@ -1,28 +1,28 @@
-participant_id	species	sex
-sub-661968859	Mus musculus	F
-sub-664605504	Mus musculus	M
-sub-664744816	Mus musculus	M
-sub-666788991	Mus musculus	F
-sub-666839638	Mus musculus	M
-sub-671540231	Mus musculus	F
-sub-673580710	Mus musculus	M
-sub-673728456	Mus musculus	F
-sub-675861517	Mus musculus	M
-sub-675881553	Mus musculus	M
-sub-699590236	Mus musculus	F
-sub-746910369	Mus musculus	F
-sub-746926904	Mus musculus	M
-sub-753852001	Mus musculus	M
-sub-754469470	Mus musculus	F
-sub-759066288	Mus musculus	M
-sub-760696809	Mus musculus	F
-sub-760933183	Mus musculus	F
-sub-760940732	Mus musculus	F
-sub-760984688	Mus musculus	F
-sub-763247322	Mus musculus	M
-sub-763248171	Mus musculus	F
-sub-763832038	Mus musculus	M
-sub-765991985	Mus musculus	M
-sub-769316535	Mus musculus	F
-sub-772622312	Mus musculus	M
-sub-772656187	Mus musculus	M
+participant_id	original_participant_id	species	sex
+sub-661968859	sub-661968859	Mus musculus	F
+sub-664605504	sub-664605504	Mus musculus	M
+sub-664744816	sub-664744816	Mus musculus	M
+sub-666788991	sub-666788991	Mus musculus	F
+sub-666839638	sub-666839638	Mus musculus	M
+sub-671540231	sub-671540231	Mus musculus	F
+sub-673580710	sub-673580710	Mus musculus	M
+sub-673728456	sub-673728456	Mus musculus	F
+sub-675861517	sub-675861517	Mus musculus	M
+sub-675881553	sub-675881553	Mus musculus	M
+sub-699590236	sub-699590236	Mus musculus	F
+sub-746910369	sub-746910369	Mus musculus	F
+sub-746926904	sub-746926904	Mus musculus	M
+sub-753852001	sub-753852001	Mus musculus	M
+sub-754469470	sub-754469470	Mus musculus	F
+sub-759066288	sub-759066288	Mus musculus	M
+sub-760696809	sub-760696809	Mus musculus	F
+sub-760933183	sub-760933183	Mus musculus	F
+sub-760940732	sub-760940732	Mus musculus	F
+sub-760984688	sub-760984688	Mus musculus	F
+sub-763247322	sub-763247322	Mus musculus	M
+sub-763248171	sub-763248171	Mus musculus	F
+sub-763832038	sub-763832038	Mus musculus	M
+sub-765991985	sub-765991985	Mus musculus	M
+sub-769316535	sub-769316535	Mus musculus	F
+sub-772622312	sub-772622312	Mus musculus	M
+sub-772656187	sub-772656187	Mus musculus	M
